@@ -1,5 +1,9 @@
 # login 
 
+fluuter login validation using getX
+
+
+
 A new Flutter project.
 
 ## Getting Started
